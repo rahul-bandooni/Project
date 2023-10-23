@@ -1,2 +1,2 @@
 # Project
-My first GitHub repository
+My first GitHub repository<br> Author Rahul Bandooni
